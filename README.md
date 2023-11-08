@@ -9,7 +9,7 @@ Link the stylesheet (index.css) to the htnl file (index.html):
 - Add a link tag to the top of the html file (index.html)
   - Change value of the 'src' attribute on the link tag to a file-path of the stylesheet.
   
-Use the stylesheet to color-code the image borders for the different categories of items.
+Use the stylesheet to color-code the borders for the different categories of items.
 - Add a style block for the 'shirts' class (.shirts)
   - Use the 'border' property to change the border of the shirts to red
 - Add a style block for the 'pants' class (.pants)
