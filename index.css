@@ -1,0 +1,10 @@
+.items {
+
+
+}
+
+.items img {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
