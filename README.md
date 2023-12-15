@@ -5,8 +5,9 @@
 For this assignment you will create an page to display clothing items for a store.
 
 ### Instructions
-  - Link the stylesheet (index.css) to the htnl file (index.html)- Add a link tag to the top of the html file (index.html)
-    - Change value of the 'src' attribute on the link tag to a file-path of the stylesheet.
+  - You may not use ANY [inline css](https://www.geeksforgeeks.org/inline-css/) for this assignment. All styling must be done in a [seperate css file which has already been created for you.](./index.css)
+    - Link the stylesheet (index.css) to the htnl file (index.html)- Add a link tag to the top of the html file inside the head tag
+      - Change value of the 'src' attribute on the link tag to a file-path of the stylesheet.
   
 **Part 1: Align the clothing items horizontally**
   - Align the clothing items horizontally on the page
@@ -20,7 +21,26 @@ For this assignment you will create an page to display clothing items for a stor
   - Space the clothing items evenly across the screen.
     - Change the container elements for the clothing items into flexboxes and set the content to be centered
       - Configure [the stylesheet](./index.css) to apply a 3% margin on the left-side and right-side of all elements with the .item class
+
+
+**Part 3: Center the item descriptions and category headers**
+  - Center the category headers of Shirts, Pants and Shoes to the middle of the page.
+    - Configure [the stylesheet](./index.css) to center all text within the elements containing the headers for the categories.
+      - Create a style-block in the stylesheet ([index.css](./index.css)) that targets all the elements containing the headers for the categories and set the value of the 'text-align' property to be 'center'
   
+  - Center the item descriptions for each of the clothing items. DO NOT USE INLINE CSS
+    - You got this! 😊 (Hint: Consider adding a class definition to the HTML elements that contain the text for the descriptions)
+
+
+
+**Part 4: Add padding to the item containers, Round the borders of item containers** 
+  - Add some internal padding to all the elements that contain the item image and description
+    - Configure [the stylesheet](./index.css) to apply a 10px padding to all of the elements with the .item class
+  
+  - Round the corners of the borders for the item containers
+    - Configure [the stylesheet](./index.css) to apply a border-radius of 12px to all of the elements with the .item class
+
+
 
 
   
