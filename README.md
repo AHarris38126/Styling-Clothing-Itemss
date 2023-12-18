@@ -2,7 +2,10 @@
 
 ## Assignment: Clothing Catalog
 
-For this assignment you will create an page to display clothing items for a store.
+For this assignment you will create a page to display clothing items for a store.
+
+![Example](./Example/Part4.png)
+
 
 ### Instructions
   - You may not use ANY [inline css](https://www.geeksforgeeks.org/inline-css/) for this assignment. All styling must be done in a [seperate css file which has already been created for you.](./index.css)
