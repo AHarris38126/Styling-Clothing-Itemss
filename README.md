@@ -9,7 +9,7 @@ For this assignment you will create a page to display clothing items for a store
 
 ### Instructions
   - You may not use ANY [inline css](https://www.geeksforgeeks.org/inline-css/) for this assignment. All styling must be done in a [seperate css file which has already been created for you.](./index.css)
-    - Link the stylesheet (index.css) to the htnl file (index.html)- Add a link tag to the top of the html file inside the head tag
+    - Link the stylesheet (index.css) to the html file (index.html)- Add a link tag to the top of the html file inside the head tag
       - Change value of the 'src' attribute on the link tag to a file-path of the stylesheet.
   
 **Part 1: Align the clothing items horizontally**
