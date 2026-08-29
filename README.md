@@ -3,6 +3,7 @@
 ## Assignment: Clothing Catalog
 
 For this assignment you will create a page to display clothing items for a store.
+Start by creating a fork and cloning the fork to your local machine.
 
 ![Example](./Example/Part4.png)
 
